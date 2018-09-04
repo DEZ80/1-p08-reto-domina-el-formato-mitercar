@@ -46,7 +46,6 @@ PC: 4000
 PC: 4000
 
 # IMAGENES
-Si quieres, puedes subir pantallazos y enlazarlos aquí.
 ![Actividad 1](/1.PNG)
 ![Actividad 2](/2.PNG)
 ![Actividad 3](/3.PNG)
